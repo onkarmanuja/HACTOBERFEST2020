@@ -1,2 +1,2 @@
-# HACTOBERFEST2020
-Send your pull request and participate in HACTOBER FEST 2020
+# HACKTOBERFEST2020
+Send your pull request and participate in HACKTOBER FEST 2020
